@@ -35,6 +35,8 @@ How to read this list. Each section (header) represent input data i.e. data you 
 
 ### Username
 
+- profile-urls:
+  - https://github.com/OSINT-Experts-Society/Consensus-OSINT (local CLI; installation required)
 - ???:
   - https://www.instagram.com/accounts/password/reset/
   - https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
